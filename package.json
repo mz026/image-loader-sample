@@ -1,0 +1,17 @@
+{
+  "name": "image-loader-sample",
+  "version": "0.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "imagemin": "^3.1.0",
+    "image-webpack-loader": "^1.4.0",
+    "file-loader": "^0.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
